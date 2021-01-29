@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jan 29 14:04:06 IST 2021","Fri Jan 29 14:04:19 IST 2021","13496","","homepage elements handles","","homepage elements handles","verify the homePage element","verify the homePage element",""
+"passed","Fri Jan 29 14:04:19 IST 2021","Fri Jan 29 14:04:19 IST 2021","20","","homepage elements handles","","homepage elements handles","main heading exiest?","main heading exiest?",""
+"passed","Fri Jan 29 14:04:19 IST 2021","Fri Jan 29 14:04:19 IST 2021","19","","homepage elements handles","","homepage elements handles","main heading displayed?","main heading displayed?",""

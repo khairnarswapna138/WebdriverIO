@@ -1,0 +1,58 @@
+{
+  "uid" : "3373cbd35579bf04",
+  "name" : "main heading exiest?",
+  "fullName" : "homepage elements handles.main heading exiest?",
+  "historyId" : "76cdb0080f0fff8edde7921d5e01e87e",
+  "time" : {
+    "start" : 1611909259664,
+    "stop" : 1611909259684,
+    "duration" : 20
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "homepage elements handles"
+  }, {
+    "name" : "testClass",
+    "value" : "homepage elements handles"
+  }, {
+    "name" : "testMethod",
+    "value" : "main heading exiest?"
+  }, {
+    "name" : "package",
+    "value" : "homepage elements handles"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-88.0.4324.96"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3373cbd35579bf04.json",
+  "parameterValues" : [ "chrome-88.0.4324.96" ]
+}

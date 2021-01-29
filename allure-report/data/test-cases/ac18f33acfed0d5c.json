@@ -1,0 +1,58 @@
+{
+  "uid" : "ac18f33acfed0d5c",
+  "name" : "verify the homePage element",
+  "fullName" : "homepage elements handles.verify the homePage element",
+  "historyId" : "4c754983bf8fa40e85ad928083e16018",
+  "time" : {
+    "start" : 1611909246148,
+    "stop" : 1611909259644,
+    "duration" : 13496
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "homepage elements handles"
+  }, {
+    "name" : "testClass",
+    "value" : "homepage elements handles"
+  }, {
+    "name" : "testMethod",
+    "value" : "verify the homePage element"
+  }, {
+    "name" : "package",
+    "value" : "homepage elements handles"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-88.0.4324.96"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ac18f33acfed0d5c.json",
+  "parameterValues" : [ "chrome-88.0.4324.96" ]
+}

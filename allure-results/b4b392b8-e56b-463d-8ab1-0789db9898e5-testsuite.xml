@@ -1,0 +1,49 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1611909246147' stop='1611909259685'>
+    <name>homepage elements handles</name>
+    <title>homepage elements handles</title>
+    <test-cases>
+        <test-case start='1611909246148' status='passed' stop='1611909259644'>
+            <name>verify the homePage element</name>
+            <title>verify the homePage element</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-88.0.4324.96'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1611909259645' status='passed' stop='1611909259664'>
+            <name>main heading displayed?</name>
+            <title>main heading displayed?</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-88.0.4324.96'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1611909259664' status='passed' stop='1611909259684'>
+            <name>main heading exiest?</name>
+            <title>main heading exiest?</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-88.0.4324.96'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
